@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LucasKersten
+- 👀 I’m interested in JavaScript Node JS React React JS
